@@ -1,0 +1,20 @@
+{
+  "name": "sicbo-ai-ultimate",
+  "version": "13.0.0",
+  "description": "Sicbo AI v13.0 - Regime Aware + No Bias + 250+ Cầu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["sicbo", "taixiu", "ai", "prediction", "regime"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1"
+  }
+}
